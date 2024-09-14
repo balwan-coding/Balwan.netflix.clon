@@ -120,6 +120,17 @@ nav button {
     gap: 16px;
 }
 
+select{
+    background-color:transparent;
+    color:white;
+    border:none;
+}
+
+select option{
+    background-color:black;
+    color:white;
+}
+
 .main input {
     padding: 7px 101px 8px 14px;
     color: white;
